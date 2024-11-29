@@ -1,0 +1,10 @@
+/* Add application styles & imports to this file! */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+div{
+  border: 1px solid black;
+  padding: 4px;
+  margin: 4px;
+}
